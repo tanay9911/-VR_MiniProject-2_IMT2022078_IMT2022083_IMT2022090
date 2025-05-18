@@ -11,5 +11,5 @@ Make sure you have Python 3.7 or higher. Then install all necessary dependencies
 ```bash
 pip install -r requirements.txt
 ```
-Make sure the CSV file has the correct columns, i.e., image_id and question
-For more details and experiments about the models check the report 
+Make sure the CSV file has the correct columns, i.e., image_id and question.
+For more details and experiments about the models, check the report.
