@@ -1,7 +1,4 @@
-# BLIP VQA Inference
-
-This repository contains a script for running inference using a BLIP (Bootstrapping Language-Image Pretraining) model fine-tuned for Visual Question Answering (VQA).
-
+# VR Mini Project 2
 ---
 
 ## 🛠️ Setup
