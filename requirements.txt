@@ -1,0 +1,6 @@
+torch>=1.10
+transformers>=4.31.0
+pandas>=1.3.0
+Pillow>=8.0.0
+tqdm>=4.60.0
+peft>=0.4.0
